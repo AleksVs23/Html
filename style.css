@@ -3,9 +3,9 @@ body {
   }
 
 h1 {
- style = "background-color:purple;"
+ background-color:purple;
 }
 
 p {
-  style = "color:red;"
+  color:red;
 }
