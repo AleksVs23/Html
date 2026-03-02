@@ -5,3 +5,7 @@ body {
 h1 {
  style = "background-color:purple;"
 }
+
+p {
+  style = "color:red;"
+}
